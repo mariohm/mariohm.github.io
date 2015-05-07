@@ -11,7 +11,7 @@ anyways
 
 ## Contact
 
-![Mario](http://mariohm.github.io/mariohm.github.io/image.jpg)
+![Mario](http://mariohm.github.io/image.jpg)
 
 Github: [mariohm](http://github.com/mariohm)
 
