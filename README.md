@@ -1,4 +1,4 @@
-# JJ Merelo pages
+# Mario Heredia pages
 
 A repo for my GitHub personal page.
 

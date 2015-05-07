@@ -1,31 +1,23 @@
-
 ## A page to point to them all
 
-A few of the projects [I have in GitHub](http://github.com/JJ),
-anyways.
+A few of the projects [I have in GitHub](http://github.com/mariohm),
+anyways
 
-## A few tutorials, most of them in Spanish
+## My projects with Free Software Office at University of Granada
 
-* [Introducción a Ruby](http://jj.github.io/ruby-para-impacientes)
-* [Curso de JavaScript](https://github.com/JJ/curso-js)
+* [Open Data page University of Granada](https://github.com/oslugr/ugr-opendata)
 
-## Some other tutorials I participate in
+* [Transparency Web University of Granada](https://github.com/oslugr/ugr-transparente)
 
-* [Curso de Git](https://github.com/oslugr/curso-git)
+## Contact
 
-## La asignatura que enseño en la [ETSIIT](http://etsiit.ugr.es)
+![Mario](http://mariohm.github.io/mariohm.jpg)
 
-[Infraestructura Virtual](http://jj.github.io/IV/), un poco de
-computación nube.
+Github: [mariohm](http://github.com/mariohm)
 
-## My open source novels
+Gmail: [mariohm1989@gmail.com](mailto:mariohm1989@gmail.com)
 
-* [Manuel the Magnificent Mechanical Man](http://jj.github.io/hoborg),
-  in English
-
-## ObPicture
-
-![JJ Merelo](jj.png)
+Twitter: [@mhmario89](https://twitter.com/mhmario89)
 
 ## Based on
 
@@ -35,4 +27,4 @@ computación nube.
 
 [MIT License](http://chibicode.mit-license.org/)
 
-<a href="https://github.com/JJ/jj.github.io"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+<a href="https://github.com/mariohm/mariohm.github.io"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
